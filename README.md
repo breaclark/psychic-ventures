@@ -4,14 +4,14 @@
 
 #### By **Brea Clark**
 
-###Finished Sketch Files
+### Finished Sketch Files
 
 <p>
 <img width="400" src="https://raw.githubusercontent.com/breatortilla/psychic-ventures/master/Main-Page.png">
 <img width="400" src="https://raw.githubusercontent.com/breatortilla/psychic-ventures/master/Contact-Page.png">
 </p>
 
-###Inspiration
+### Inspiration
 
 <img src="https://raw.githubusercontent.com/breatortilla/psychic-ventures/master/Screen%20Shot%202018-06-06%20at%2011.28.19%20AM.png">
 
