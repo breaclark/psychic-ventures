@@ -4,9 +4,16 @@
 
 #### By **Brea Clark**
 
-| <img src="https://raw.githubusercontent.com/breatortilla/co-work-client-website/master/Inspiration/Screen%20Shot%202018-06-01%20at%208.23.55%20AM.png"> | <img src="https://raw.githubusercontent.com/breatortilla/co-work-client-website/master/Inspiration/Screen%20Shot%202018-06-01%20at%208.24.31%20AM.png"> | <img src="https://raw.githubusercontent.com/breatortilla/co-work-client-website/master/Inspiration/Screen%20Shot%202018-06-01%20at%208.29.26%20AM.png"> | <img src="https://raw.githubusercontent.com/breatortilla/co-work-client-website/master/Inspiration/Screen%20Shot%202018-06-01%20at%208.29.53%20AM.png"> |
-| :-------------  | :------------- | :------------- | :------------- |
-| <img src="https://raw.githubusercontent.com/breatortilla/co-work-client-website/master/Inspiration/Screen%20Shot%202018-06-01%20at%208.30.23%20AM.png"> | <img src="https://raw.githubusercontent.com/breatortilla/co-work-client-website/master/Inspiration/Screen%20Shot%202018-06-01%20at%208.31.14%20AM.png"> | <img src="https://raw.githubusercontent.com/breatortilla/co-work-client-website/master/Inspiration/Screen%20Shot%202018-06-01%20at%208.31.47%20AM.png"> | <img src="https://raw.githubusercontent.com/breatortilla/co-work-client-website/master/Inspiration/Screen%20Shot%202018-06-01%20at%208.32.37%20AM.png"> |
+###Finished Sketch Files
+
+<p>
+<img width="400" src="https://raw.githubusercontent.com/breatortilla/psychic-ventures/master/Main-Page.png">
+<img width="400" src="https://raw.githubusercontent.com/breatortilla/psychic-ventures/master/Contact-Page.png">
+</p>
+
+###Inspiration
+
+<img src="https://raw.githubusercontent.com/breatortilla/psychic-ventures/master/Screen%20Shot%202018-06-06%20at%2011.28.19%20AM.png">
 
 ### Layout
 
